@@ -1,0 +1,8 @@
+requests
+dnspython
+
+
+beautifulsoup4==4.11.1
+flask==2.2.3
+flask-cors==3.0.10
+PyPDF2==3.0.0

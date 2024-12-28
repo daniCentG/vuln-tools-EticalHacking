@@ -1,0 +1,33 @@
+# Archivos y carpetas de sistema
+.DS_Store
+Thumbs.db
+
+package-lock.json
+
+# Archivos de log
+*.log
+
+# Archivos de respaldo
+*.pyc  # Archivos de respaldo de Python
+
+# Archivos de compilación
+dist/
+build/
+*.as # Archivos de compilación de Flash
+*.pyc # Archivos de compilación de Python
+*.pyo # Archivos de compilación de Python
+*.pyd # Archivos de compilación de Python
+*.pyz # Archivos de compilación de Python
+*.pyw # Archivos de compilación de Python
+*.pyc # Archivos de compilación de Python
+*.pyo # Archivos de compilación de Python
+
+# Archivos de IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*.swn
+*.swm
+*.swl
+*.swk
